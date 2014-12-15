@@ -8,6 +8,9 @@ We’d like you to use this test to show us how awesome you are at what you do.
 
 Please clone this repository before commencing development. Once complete please provide a link to your repository. We’d like to understand your approach as well as how great your work is, so please don’t simply commit all of your work in a single chunk.
 
+![alt text](https://github.com/sky-guide/angular-node-test/blob/master/it-compiles.png "It Compiles!")
+
+
 Your solution will be evaluated on implementation of the below requirements, code maintainability, code clarity, and software development best practices. We would urge you to treat this like a mini-project and follow whatever Agile/TDD/BDD/etc approach you would use on any other project.
 Once reviewed, we will ask you to delete (or make private) your repository once we have reviewed your code.
 
