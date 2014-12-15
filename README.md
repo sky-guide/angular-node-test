@@ -1,6 +1,6 @@
-# Sky - Find & Watch Team
+# Sky - Find & Watch Team - Unattended Test
 
-The Find & Watch team at Sky are happy to send you this unattended test. This means we think your CV is pretty good so we want to see if your approach to work is the same as ours. 
+The Find & Watch team at Sky are pleased to send you this unattended test. This means we think your CV is pretty good so we want to see if your approach to work is the same as ours. 
 Our team is very Agile and TDD oriented so we believe a few lines of great code speak more than endless CV pages! 
 We’d like you to use this test to show us how awesome you are at what you do.
 
@@ -29,3 +29,8 @@ Authentication attempts should be recorded (preferably in a Mongo database, alth
   *	Username
 
 Expose a JSON feed of the authentication data to authenticated admin users only.
+
+
+Good luck!
+
+Find & Watch dev team
