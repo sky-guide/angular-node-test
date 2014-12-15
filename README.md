@@ -1,4 +1,4 @@
-# Sky - Find & Watch Team - Unattended Test
+# Sky - Find & Watch Team - Welcome!
 
 The Find & Watch team at Sky are pleased to send you this unattended test. This means we think your CV is pretty good so we want to see if your approach to work is the same as ours. 
 Our team is very Agile and TDD oriented so we believe a few lines of great code speak more than endless CV pages! 
